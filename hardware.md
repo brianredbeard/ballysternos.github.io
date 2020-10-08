@@ -10,4 +10,15 @@ The board will look like this:
 To construct this board, make the following connections:
 ![Image](https://user-images.githubusercontent.com/36781010/95404130-31703380-08e2-11eb-934e-25c1274028bc.png)
   
+The jumper (alligator clip) will be clipped to the top lead of R134 on the MPU board so the Arduino can sense the interrupt line.  
+### Parts list:
+- 0.1" F Headers (1x32 for J5, 2x15 for Arduino)
+- 0.1" M Headers (2x15 for Arduino if it didn't come with any)
+- Wire
+- Prototype Board
+- 74LS125AN (or equivalent)
+- Single pole switch (to select boot mode)
+- Arduino Nano (has to be based on ATmega328P)
   
+
+
