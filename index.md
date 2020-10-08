@@ -4,7 +4,7 @@ This project consists of a library & several game implementations which add mode
 
 ### How to get it
 In order to update a machine, the operator will need to:
-- [Build the hardware](/hardware)
+- [Build the hardware](../../hardware)
 - Get the library
 - Get the software
 - Compile the software and install it on an Arduino Nano
