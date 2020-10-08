@@ -19,6 +19,6 @@ The jumper (alligator clip) will be clipped to the top lead of R134 on the MPU b
 - 74LS125AN (or equivalent)
 - Single pole switch (to select boot mode)
 - Arduino Nano (has to be based on ATmega328P)
-  
+- Alligator clip  
 
 
