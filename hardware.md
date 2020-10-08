@@ -21,4 +21,7 @@ The jumper (alligator clip) will be clipped to the top lead of R134 on the MPU b
 - Arduino Nano (has to be based on ATmega328P)
 - Alligator clip  
 
-
+### Optional:
+- WAVTrigger board
+- header for WAVTrigger (I use a 0.1" M 5-pin header so I can connect with a jumper cable)
+- header for switch (I use a 0.1" M 2-position switch so I can detach the switch when needed)
